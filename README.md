@@ -5,7 +5,7 @@
 
 <p align="center">Celem projektu było stworzenei niezależnego systemu bankowego, który był cześcią ekosystemu bankowości z Jednostką Rozliczeniową oraz drugim niezależnym bankiem. Bank miał za zadanie łączyć się z Jednostką Rozliczeniową by wykonywać przelewy do odrębnego banku. Węwnętrzne przelewy były wykonywane bez pośrednictwa Jednostki rozliczeniowej jak i przelewy ekspresowe międzybankowe </p>
 
-<p align="center">Opis Aplikacji</p>
+## <p align="center">Opis Aplikacji</p>
 
 Aplikacja została stworzona za pośrednictwem następujących technologii:</p>
 
@@ -13,24 +13,25 @@ Aplikacja została stworzona za pośrednictwem następujących technologii:</p>
 *	-HTML/CSS Bootstrap
 *	-Mysql
 
-<p align="center">Struktura Projektu:</p>
+## <p align="center">Struktura Projektu:</p>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/58811103/118054173-17219b00-b386-11eb-81d8-2ef1082d3992.png">
 </p>
 
-<p align="center">Interakcja</p>
+## <p align="center">Interakcja</p>
 
 <p align="center">Aby zalogować się do serwisu należy wpisać Login oraz Password. W przypadku nie podania żadnych danych, pojawi się stosowny komunikat o wpisaniu ich. W przypadku wpisania niepoprawnych danych pojawi się komunikat o ponownej próbie logowania.</p>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/58811103/118055026-9e234300-b387-11eb-955a-e0cfce3db89b.png
+ <img src="https://user-images.githubusercontent.com/58811103/118057081-66b69580-b38b-11eb-97d2-0fc3af707367.png
 ">
 </p>
 
+
 <p align="center">Po zalogowaniu się do serwisu w zależności od typu konta, pojawi się odpowiednia strona.</p>
 
-<p align="center">Admin</p>
+## <p align="center">Admin</p>
 
 
 <p align="center">
@@ -53,7 +54,7 @@ Aplikacja została stworzona za pośrednictwem następujących technologii:</p>
  <img src="">
 </p>
 
-<p align="center">Users</p>
+## <p align="center">Users</p>
 
 <p align="center">Wypisane wszystkich użytkowników w banku.</p>
 
@@ -85,7 +86,7 @@ Aplikacja została stworzona za pośrednictwem następujących technologii:</p>
 <p align="center">Zmiana udała się. Aby zmienić na konto zwykłe należy się zalogować na to konto i zmienić osobiście.</p>
 
  
-<p align="center">Accounts</p>
+## <p align="center">Accounts</p>
 
 <p align="center">W poniższym widoku, są przedstawione wszystkie konta, które są dotychczas przechowywane przez bank. Możemy przejrzeć wszystkie konta, kto jest ich właścicielem, zmienienie właściciela oraz przejrzenie przelewów danego konta bankowego.</p>
 
@@ -131,7 +132,7 @@ Przelewy danego rachunku bankowego. W tej chwili ten numer nie posiada przelewó
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58811103/118055259-0ffb8c80-b388-11eb-881d-22120778df11.png">
 </p>
-<p align="center">Operations</p>
+## <p align="center">Operations</p>
 
 <p align="center">Wyświetlanie wszystkich przelewów w banku B.</p>
 
@@ -139,7 +140,7 @@ Przelewy danego rachunku bankowego. W tej chwili ten numer nie posiada przelewó
 <img src="https://user-images.githubusercontent.com/58811103/118055271-15f16d80-b388-11eb-91ce-dc91e08dcc5a.png">
 </p>
 
-<p align="center">Take list of payments</p>
+## <p align="center">Take list of payments</p>
 
 <p align="center">Pobieranie przelewów przychodzących z jednostki rozliczeniowej jest wykonywane za wywołaniem funkcji. Następujący wynik przedstawia, że 2 przelewy przychodzące zostały zwrócone do jednostki rozliczeniowej z powodu braku odbiorców, lecz jeden numer rachunku należy do banku B, więc przelew został przypisany do istniejącego rachunku.
 </p>
