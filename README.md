@@ -50,9 +50,7 @@ Aplikacja została stworzona za pośrednictwem następujących technologii:</p>
 ●	Logout – Wylogowanie się z serwisu.</p>
 
 
-<p align="center">
- <img src="">
-</p>
+
 
 ## <p align="center">Users</p>
 
