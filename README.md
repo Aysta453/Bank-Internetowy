@@ -64,7 +64,6 @@ Aplikacja została stworzona za pośrednictwem następujących technologii:</p>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/58811103/118055070-b5fac700-b387-11eb-9009-acddf855e194.png">
-<img src="https://user-images.githubusercontent.com/58811103/118055079-b8f5b780-b387-11eb-9154-40b8551fe655.png">
 </p>
 
 
