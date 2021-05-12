@@ -14,7 +14,6 @@ Aplikacja została stworzona za pośrednictwem następujących technologii:</p>
 *	-Mysql
 
 ## <p align="center">Struktura Projektu:</p>
-![image]()
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/58811103/118054173-17219b00-b386-11eb-81d8-2ef1082d3992.png">
