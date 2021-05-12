@@ -129,6 +129,7 @@ Przelewy danego rachunku bankowego. W tej chwili ten numer nie posiada przelewó
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58811103/118055259-0ffb8c80-b388-11eb-881d-22120778df11.png">
 </p>
+
 ## <p align="center">Operations</p>
 
 <p align="center">Wyświetlanie wszystkich przelewów w banku B.</p>
@@ -174,7 +175,7 @@ Przelewy danego rachunku bankowego. W tej chwili ten numer nie posiada przelewó
 <p alingn="center"> Wykonanie przelewu, niezależnie czy zostanie wykonane przez użytkownika bądź administratora jest wykonywana ta sama czynność. Po wybraniu jednego z kont użytkownika, możemy wykonać przelew. Zostanie przedstawiony widok gdzie są przedstawione nasze dane. Przy nie podaniu danych do realizacji przelewów zostanie wyświetlony komunikat.</p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58811103/118055331-31f50f00-b388-11eb-9c78-3d4588dfeb4a.pn">
+<img src="https://user-images.githubusercontent.com/58811103/118057510-6f5b9b80-b38c-11eb-8424-adf425f052a1.png">
 </p>
 
 <p align="center"> Po wpisaniu wszystkich danych możemy przystąpić do realizacji przelewu. W przypadku podaniu błędnej ilości pieniędzy zostanie wyświetlony odpowiedni komunikat.</p>
