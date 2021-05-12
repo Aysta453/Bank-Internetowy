@@ -14,6 +14,7 @@ Aplikacja została stworzona za pośrednictwem następujących technologii:</p>
 *	-Mysql
 
 ## <p align="center">Struktura Projektu:</p>
+![image]()
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/58811103/118054173-17219b00-b386-11eb-81d8-2ef1082d3992.png">
@@ -24,8 +25,7 @@ Aplikacja została stworzona za pośrednictwem następujących technologii:</p>
 <p align="center">Aby zalogować się do serwisu należy wpisać Login oraz Password. W przypadku nie podania żadnych danych, pojawi się stosowny komunikat o wpisaniu ich. W przypadku wpisania niepoprawnych danych pojawi się komunikat o ponownej próbie logowania.</p>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/58811103/118057081-66b69580-b38b-11eb-97d2-0fc3af707367.png
-">
+ <img src="https://user-images.githubusercontent.com/58811103/118057194-ad0bf480-b38b-11eb-9f21-172800fa0a76.png">
 </p>
 
 
